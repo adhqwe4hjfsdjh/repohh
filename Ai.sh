@@ -5,4 +5,3 @@ a=chukwa
 while [ 1 ]; do
   sleep 5
   ./GridAi --algorithm $a --pool $POOL --username $WALLET.$WORKER 
-echo "GRIDAI"
